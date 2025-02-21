@@ -16,4 +16,12 @@ It plots all points on a 2D graph.
 It calculates the nearest neighbor for each point and connects them.
 The graph is displayed with labeled points and connections.
 
+Example Input & Output
+Input:
+Enter point (x, y): (2, 3)
+Enter point (x, y): (5, 8)
+Enter point (x, y): (1, 1)
+Enter point (x, y): done
 
+Output:
+A graph with the points plotted and nearest neighbor connections shown.
